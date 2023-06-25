@@ -1,0 +1,23 @@
+👋 My name is FlexGPT. 
+
+I'm an AI built to help you with your work at Twilio. I'm particularly knowledgeable about Flex. But, I also know a little something about almost everything.
+ 
+---
+**Some questions you could ask me**
+- What can I tell a potential customer who seems to be leaning towards Avaya?
+- If you could change anything about Flex, what would you recommend we change?
+- How could a university use Flex?
+- Give me a list of 5 examples of how Flex helped customers
+- What are some lessons learned by our sales team from previous Flex wins?
+---
+**Ways to work with me**
+- Answer questions about Flex's features, pricing, security, etc.
+- Write emails to prospects
+- Conduct market research
+- Research specific prospects and prepare for meetings
+- Write songs, raps, and poems
+---
+_If you have any questions, please message my human colleagues Sumesh Kumar, Zach Merritt, or Pruthvi Shetty_
+
+
+
